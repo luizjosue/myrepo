@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Sep 09 11:26:41 GFT 2018
+http\://repo1.maven.org/maven2/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1536503199815
+https\://repo.maven.apache.org/maven2/.lastUpdated=1536502738701
+http\://maven.appirio.net\:8080/.error=Could not transfer artifact com.topcoder.internal\:core.api\:jar\:4.3.0 from/to Appirio Technology Maven Repository (http\://maven.appirio.net\:8080/)\: maven.appirio.net
+@default-Appirio\ Technology\ Maven\ Repository-http\://maven.appirio.net\:8080/.lastUpdated=1536503199848
+https\://github.com/coderReview/temp-maven-repo/raw/master/.lastUpdated=1536503201426
+https\://repo.maven.apache.org/maven2/.error=

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Sep 10 19:47:02 GFT 2018
+job_scheduler-1.0.0.jar>=
+job_scheduler-1.0.0.jar>temp-maven-repo=
+job_scheduler-1.0.0.pom>temp-maven-repo=

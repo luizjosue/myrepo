@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Sep 10 19:51:11 GFT 2018
+file\:/home/u14/.m2/repository/.lastUpdated=1536619871610
+http\://repo1.maven.org/maven2/.error=
+file\:/home/u14/.m2/repository/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1536619871597
+http\://maven.appirio.net\:8080/.error=Could not transfer artifact com.topcoder.internal\:tcwebcommon\:pom\:1.0.0 from/to Appirio Technology Maven Repository (http\://maven.appirio.net\:8080/)\: maven.appirio.net
+@default-Appirio\ Technology\ Maven\ Repository-http\://maven.appirio.net\:8080/.lastUpdated=1536503270690
+https\://github.com/coderReview/temp-maven-repo/raw/master/.lastUpdated=1536503272534

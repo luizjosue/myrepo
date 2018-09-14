@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Aug 05 14:25:22 GFT 2018
+http\://maven.appirio.net\:8080/.error=Could not transfer artifact com.topcoder.security\:security\:jar\:sources\:1.0-SNAPSHOT from/to Appirio Technology Maven Repository (http\://maven.appirio.net\:8080/)\: maven.appirio.net
+@default-Appirio\ Technology\ Maven\ Repository-http\://maven.appirio.net\:8080/.lastUpdated=1533489922831

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Aug 06 03:38:27 GFT 2018
+base_exception-1.0-SNAPSHOT-jar-with-dependencies.jar>=
+base_exception-1.0-SNAPSHOT.jar>=
+base_exception-1.0-SNAPSHOT.pom>=
